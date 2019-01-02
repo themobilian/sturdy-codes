@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "965.InivaluesBinaryTree", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "771.JewelsAndStones", "771.JewelsAndStones\771.JewelsAndStones.csproj", "{5E8DB832-2D5B-4D10-AB74-9A173324032C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "929.UniqueEmailAddress", "929.UniqueEmailAddress\929.UniqueEmailAddress.csproj", "{3219ED95-CA4A-451A-ADC5-2CBA17B2AD33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5E8DB832-2D5B-4D10-AB74-9A173324032C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E8DB832-2D5B-4D10-AB74-9A173324032C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E8DB832-2D5B-4D10-AB74-9A173324032C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3219ED95-CA4A-451A-ADC5-2CBA17B2AD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3219ED95-CA4A-451A-ADC5-2CBA17B2AD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3219ED95-CA4A-451A-ADC5-2CBA17B2AD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3219ED95-CA4A-451A-ADC5-2CBA17B2AD33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
