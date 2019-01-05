@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "905.SortArrayByParity", "90
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "832.FlippingAnImage", "832.FlippingAnImage\832.FlippingAnImage.csproj", "{491E976B-399C-4D83-8B01-10F0F50E2C75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "657.RobotReturnToOrigin", "657.RobotReturnToOrigin\657.RobotReturnToOrigin.csproj", "{AAA612DE-9510-4CFD-A6AA-42CFA984CA99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "461.HammingDistance", "461.HammingDistance\461.HammingDistance.csproj", "{A76A9359-BF7C-416B-9CA4-789E59148801}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{491E976B-399C-4D83-8B01-10F0F50E2C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{491E976B-399C-4D83-8B01-10F0F50E2C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{491E976B-399C-4D83-8B01-10F0F50E2C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA612DE-9510-4CFD-A6AA-42CFA984CA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA612DE-9510-4CFD-A6AA-42CFA984CA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA612DE-9510-4CFD-A6AA-42CFA984CA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA612DE-9510-4CFD-A6AA-42CFA984CA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76A9359-BF7C-416B-9CA4-789E59148801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76A9359-BF7C-416B-9CA4-789E59148801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76A9359-BF7C-416B-9CA4-789E59148801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76A9359-BF7C-416B-9CA4-789E59148801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
